@@ -22,7 +22,7 @@ int main(){
     cout<<"the Third name is "<<name3<<" "<<"And his age is "<<age3<<endl;
     cout<<"the Fourth name is "<<name4<<" "<<"And his age is "<<age4<<endl;
     cout<<"Please enter";
-    cinn>>name;
+    cin>>name;
 
     return 0;
 }
